@@ -32,13 +32,13 @@ python weather.py
 
 ## Example Output
 
-================ Weather Report ================ 
-Location: Mumbai, IN 
-Date & Time: 12-08-2025 15:30:45 
+================ Weather Report ================  <br>
+Location: Mumbai, IN  <br>
+Date & Time: 12-08-2025 15:30:45  <br>
 Weather: Clear Sky 
-Temperature: 32°C (Feels like: 34°C) 
-Humidity: 70% 
-Wind Speed: 5 m/s
+Temperature: 32°C (Feels like: 34°C)  <br>
+Humidity: 70%  <br>
+Wind Speed: 5 m/s <br>
 
 
 
